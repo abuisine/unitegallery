@@ -1,6 +1,6 @@
 {
   "name": "unitegallery",
-  "version": "1.7.40",
+  "version": "1.7.45",
   "description": "Responsive jQuery Image and Video Gallery Plugin",
   "main": "dist/js/unitegallery.js",
   "dependencies": {
