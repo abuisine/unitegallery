@@ -1,0 +1,22 @@
+{
+  "name": "unitegallery",
+  "version": "1.7.40",
+  "description": "Responsive jQuery Image and Video Gallery Plugin",
+  "main": "dist/js/unitegallery.js",
+  "dependencies": {
+    "jquery": ">= 1.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abuisine/unitegallery.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abuisine/unitegallery/issues"
+  },
+  "homepage": "http://unitegallery.net/"
+}
